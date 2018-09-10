@@ -1,0 +1,4 @@
+/PhotoViewer/obj
+/PhotoViewer/*.csproj
+/PhotoViewer/bin
+/.vs
